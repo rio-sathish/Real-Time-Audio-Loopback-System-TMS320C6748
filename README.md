@@ -10,6 +10,14 @@ The project demonstrates the implementation of embedded digital audio processing
 
 ---
 
+# Project Setup
+
+The following image shows the experimental hardware setup used for the project.
+
+![Hardware Setup](images/setup.png)
+
+---
+
 # Features
 
 - Real-time audio acquisition
@@ -43,7 +51,7 @@ The project demonstrates the implementation of embedded digital audio processing
 
 # Project Workflow
 
-```
+```text
 Microphone
       │
       ▼
@@ -73,8 +81,8 @@ Speaker / Headphones
 
 # Repository Structure
 
-```
-Real-Time-Audio-Loopback-System/
+```text
+Real-Time-Audio-Loopback-System-TMS320C6748/
 │
 ├── source/
 │   ├── main.c
@@ -92,6 +100,9 @@ Real-Time-Audio-Loopback-System/
 │
 ├── docs/
 │   └── Project_Report.pdf
+│
+├── images/
+│   └── setup.png
 │
 ├── README.md
 ├── LICENSE
@@ -138,7 +149,7 @@ The project requires the **VSK-6748-Common** library for board initialization, M
 
 Example installation path:
 
-```
+```text
 D:\ti_kit\mic\PROGRAMS\VSK-6748-Common
 ```
 
