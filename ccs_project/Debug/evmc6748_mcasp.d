@@ -1,0 +1,14 @@
+evmc6748_mcasp.obj: ../evmc6748_mcasp.c
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/stdio.h
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/_ti_config.h
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/linkage.h
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/stdarg.h
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/sys/_types.h
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/sys/cdefs.h
+evmc6748_mcasp.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c6000_8.3.6/include/machine/_types.h
+evmc6748_mcasp.obj: C:/ti/VSK-6748-Common/types.h
+evmc6748_mcasp.obj: C:/ti/VSK-6748-Common/evmc6748.h
+evmc6748_mcasp.obj: C:\ti\VSK-6748-Common\evmc6748_sysconfig.h
+evmc6748_mcasp.obj: C:\ti\VSK-6748-Common\evmc6748_psc.h
+evmc6748_mcasp.obj: C:\ti\VSK-6748-Common\evmc6748_pll.h
+evmc6748_mcasp.obj: C:/ti/VSK-6748-Common/evmc6748_mcasp.h
